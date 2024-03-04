@@ -1,0 +1,39 @@
+
+.new_item {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    background-color: #E6FFDA;
+    padding: 0 150px;
+    height: 500px;
+    /* margin-top: 100px; */
+    justify-content: space-between;
+  }
+
+  .headerIntro{
+    width: 400px;
+    height: auto;
+    background-color: white;
+    padding: 20px;
+    margin-right: 50px;
+    border-radius: 10px;
+    overflow: hidden;
+
+  }
+  .introtxt{
+    font-size: 1.5rem;
+  }
+
+  span{
+    cursor: pointer;
+  }
+  
+  .new_item_text h2 {
+    color: #05383c;
+  }
+
+  .microsoftImg{
+    width: 40%;
+    height: auto;
+  }
